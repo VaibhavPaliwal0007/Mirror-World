@@ -1,0 +1,136 @@
+* {
+    margin : 0;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 30px;
+    gap: 5px 10px;
+}
+
+.header a {
+    margin-right: 2px;
+    color: rgba(0, 0, 0, 0.88);
+    font-size: 12px;
+    text-decoration: inherit;
+}
+
+.main-body{
+    flex : 1;
+    display: flex;
+    margin-top: 12%;
+    flex-direction: column;
+}
+
+#image{
+    object-fit: contain;
+    height: 80px;
+}
+
+.search-input{
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgrey;
+    padding: 10px 20px;
+    border-radius: 100px;
+    width: 75vw;
+    margin: 0 auto;      
+    margin-top: 30px;
+    max-width: 500px;
+    max-height: 30px;
+}
+
+.search-input input{
+    flex : 1;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 16px;
+}
+
+.buttons .material-icons{
+     color: gray;
+}
+
+.buttons{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.buttons button{
+    margin: 5px;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #f8f8f8;
+}
+
+.footer{
+    width : 100%;
+    margin-top: auto;
+}
+
+.upper{
+   padding: 20px 30px;
+   border-bottom: 1px solid #dadce0;
+   color: #70757a;
+   background-color: #f2f2f2;
+   font-size: 15px;
+   margin-top: auto;
+   height: 10px;
+}
+
+.lower{ 
+    display: flex;
+    background-color: #f2f2f2;
+    align-items: center;
+    gap: 20px 0px;
+    font-family: arial,sans-serif;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 18px 18px 0px;
+    height: 16px;
+}
+
+.lower .left{
+    padding: 14px;
+    font-size: 13px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.lower .right{
+    padding: 14px;
+    align-items: center;
+    font-size: 14px;
+    margin-left: auto;
+    justify-content: space-between;
+}
+
+.lower a{
+    color: rgb(112, 117, 122);
+    text-decoration: inherit;
+    font-size: 12px;
+    padding: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
