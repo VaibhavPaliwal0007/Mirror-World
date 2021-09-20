@@ -9,11 +9,11 @@ body{
 }
 
 .small_image{
-     width: 100%;
-     object-fit: contain;
-     max-height: 150px;
-     margin-right: 10px;
-     transition: transform 450ms;
+    width: 100%;
+    object-fit: contain;
+    max-height: 150px;
+    margin-right: 10px;
+    transition: transform 450ms;
 }
 
 .row{
@@ -177,7 +177,7 @@ i{
     z-index: 1;
     transition-timing-function: ease-in;
     transition: all 0.5s;
-    background-color: transparent;
+    /* background-color: transparent; */
 }
 
 .h{
