@@ -11,5 +11,16 @@ A learning repository where I would be making clones of famous websites using HT
   
   
 <strong><i>Netflix<i><strong> ->
-![Watch the video](https://user-images.githubusercontent.com/78612380/134030665-7a009d7d-11d3-472f-867a-1004d443b905.mov)
+![Watch the video](https://user-images.githubusercontent.com/78612380/134826280-be774741-6ca1-4e98-bea4-b8dff74b00b0.mov)
+  
+<strong><i>Zomato<i><strong> -> 
+![Watch the video](https://user-images.githubusercontent.com/78612380/134826265-5ed3428e-120c-493e-bc66-2d5c297e9de7.mov)
+
+
+
+
+
+
+
+
 
